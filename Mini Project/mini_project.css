@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Noto+Sans+JP:wght@300&display=swap');
+
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+
+}
+
+body{
+
+    text-align: center;
+    margin: 0.1rem;
+    font-family: 'Abel', sans-serif;
+    background: url(ywp.jpg) ;
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+
+nav{
+
+    border: 1px solid black;
+    border-radius: 2rem;
+    max-width: 600px;
+    max-height: 900px;
+    margin: 1.5em auto ;
+}
+
+h2{
+
+    background-color:#8C8C8C;
+    border-radius: 2rem 2rem 0rem 0rem;
+    height: 100px;
+    text-align: center;
+    padding:1.9rem;
+    font-size: 30px;
+    border-bottom: 1px solid black;
+
+}
+
+ul{
+
+    list-style: none;
+
+}
+
+li{
+    font-size: 2rem;
+    height: 100px;
+    text-align: center;
+    padding: 1.5rem ;
+    border-bottom: 1px solid black;
+}
+
+li:first-child{
+
+    background-image: url(y0.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-position: center;
+
+}
+
+li:nth-child(2){
+
+    background-image: url(y1.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-position: center;
+    
+}
+li:nth-child(3){
+
+    background-image: url(y2.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-position: center;
+
+}
+li:nth-child(4){
+
+    background-image: url(y3.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    
+
+}
+
+li:last-child{
+
+border: none;
+background-image: url(y4.jpg);
+background-repeat: no-repeat;
+background-size:100%;
+background-position: center;
+
+}
+
+a , a:visited{
+ 
+    text-decoration:none;
+    color: #333333;
+
+}
+
+a:active ,a:hover{
+
+color: black ;
+
+}
+
+p{
+    background-color: #8C8C8C;
+    border-radius: 0rem 0rem 2rem 2rem;
+    padding:1rem;
+    text-align: center;
+    color:white;
+
+}
+
+p a{
+
+    color:BLACK!important;
+
+}
+
+p a:hover, p a:active{
+
+    color: white !important;
+
+}
