@@ -1,2 +1,3 @@
 # Mini_Css_Project
-Yakuza game css project from Dave Gray Css Tutorial video series.
+This project is from Dave Gray Css Tutorial video series. <br>
+But mixed with Yakuza games
